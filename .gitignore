@@ -1,0 +1,16 @@
+.env
+circle-recovery-file.dat
+recovery_file_*.dat
+cloudflared.exe
+config.yml
+node_modules/
+Thumbs.db
+desktop.ini
+.vscode/
+npm-debug.log
+*.log
+overview.md 
+rules.md 
+phases.md 
+memory.md 
+deployment-guide.md

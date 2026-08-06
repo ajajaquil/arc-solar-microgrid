@@ -1,0 +1,18 @@
+{
+  "name": "arc-solar-microgrid-demo",
+  "version": "1.0.0",
+  "description": "P2P solar micro-grid USDC settlement demo on Arc testnet, fed by two Wokwi-simulated ESP32 nodes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "generate-entity-secret": "node generate-entity-secret.js",
+    "setup-wallets": "node setup-wallets.js"
+  },
+  "dependencies": {
+    "@circle-fin/developer-controlled-wallets": "^10.8.0",
+    "@supabase/supabase-js": "^2.45.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "ws": "^8.17.0"
+  }
+}
