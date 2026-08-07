@@ -8,9 +8,4 @@ Thumbs.db
 desktop.ini
 .vscode/
 npm-debug.log
-*.log
-overview.md 
-rules.md 
-phases.md 
-memory.md 
-deployment-guide.md
+*.log 

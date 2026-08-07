@@ -203,6 +203,7 @@ I built this as a hackathon demo and scoped it accordingly, so a few things are 
 - **Simulated inputs.** Solar/load values come from potentiometers, not real sensors (see above).
 - **WebSocket support on Render's free tier is unverified** as of this writing. I'll check the dashboard's live-update behavior after deploying there.
 - **Cloudflare Quick Tunnel URLs are ephemeral.** Every restart means updating `SERVER_URL` in both firmwares.
+- **No Agent Stack / AI decision-making.** The matching engine uses straightforward rule-based logic (surplus vs. deficit), not an AI agent. It fits the Agentic Economy track's theme of autonomous, human-free transacting, but doesn't use Circle's Agent Stack or any learned decision logic. A natural next step would be replacing the matching rule with an actual agent that reasons over pricing, timing, or multiple counterparties.
 
 ---
 
