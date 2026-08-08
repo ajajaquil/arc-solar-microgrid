@@ -129,16 +129,9 @@ important electrical connections (signal pins) are all here:
     },
     {
       "type": "wokwi-text",
-      "id": "text3",
-      "top": -153.6,
-      "left": 86.4,
-      "attrs": { "text": "Surplus" }
-    },
-    {
-      "type": "wokwi-text",
       "id": "text4",
-      "top": -153.6,
-      "left": 412.8,
+      "top": -163.2,
+      "left": 105.6,
       "attrs": { "text": "Node A" }
     }
   ],
