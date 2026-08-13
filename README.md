@@ -16,7 +16,9 @@ Two simulated smart-home nodes autonomously trade solar surplus for USDC. No uti
 </div>
 
 ---
-
+# Demo Video
+📺 [Watch the demo video](https://youtu.be/pH0SyatuAwc)
+---
 # Overview
 
 I built this for the [Arc Hackathon: Programmable Money](https://community.arc.io), to explore what Arc calls the autonomous machine economy: devices that can transact value with each other without a person or institution in between.
