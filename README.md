@@ -17,7 +17,10 @@ Two simulated smart-home nodes autonomously trade solar surplus for USDC. No uti
 
 ---
 # Demo Video
-📺 [Watch the demo video](https://youtu.be/pH0SyatuAwc)
+📺 [
+![Watch the demo video](https://img.youtube.com/vi/pH0SyatuAwc/maxresdefault.jpg)
+](https://youtu.be/pH0SyatuAwc)
+
 ---
 # Overview
 
